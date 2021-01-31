@@ -1,0 +1,8 @@
+﻿  Main.c
+C:\Users\User\source\repos\DB_Lab1\DB_Lab1\ActorSlave.h(162,14): warning C4013: UpdateMaster: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\DB_Lab1\DB_Lab1\ActorSlave.h(239,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "char *"
+C:\Users\User\source\repos\DB_Lab1\DB_Lab1\ActorCheckFunc.h(25,63): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\User\source\repos\DB_Lab1\DB_Lab1\ActorCheckFunc.h(68,16): warning C4013: GetMaster: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\User\source\repos\DB_Lab1\DB_Lab1\Main.c(108,29): warning C4020: updateSlave: слишком много фактических параметров
+C:\Users\User\source\repos\DB_Lab1\DB_Lab1\ActorSlave.h(235): warning C4716: DeleteSlave: должна возвращать значение
+  DB_Lab1.vcxproj -> C:\Users\User\source\repos\DB_Lab1\Debug\DB_Lab1.exe
